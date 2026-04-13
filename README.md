@@ -34,8 +34,9 @@ For example, a sales manager can use this dashboard to quickly identify which pr
 In simple words, this task shows how data can be transformed into a visual and interactive format that is easy to understand. It combines data processing and visualization to create a user-friendly interface for analysis.
 Overall, this task is an important step in learning how to build dashboards, which is a key skill in data science and business intelligence. It helps in turning complex data into simple visuals, making it easier for anyone to understand and use the information effectively.
 
+This dashboard shows how urban heat is distributed across different cities around the world. The map highlights geographical hotspots, while the treemap compares how much each city contributes based on average temperature. The scatter plot further shows how temperature varies with latitude, helping to identify patterns. Overall, it gives a clear and interactive view of urban heat trends and differences between cities.
+
 *OUTPUT*
 
 <img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/3e930164-fa14-4e34-88ea-15426c9b15ae" />
-<img width="1504" height="450" alt="Image" src="https://github.com/user-attachments/assets/b79aaf2a-7dbc-4972-8699-c3e4370e22fa" />
-<img width="1504" height="450" alt="Image" src="https://github.com/user-attachments/assets/00ed1cab-52fc-4b77-bfb2-fdda5d058de1" />
+https://github.com/user-attachments/assets/db30c1fc-3a8a-429c-b526-96d23c206ded

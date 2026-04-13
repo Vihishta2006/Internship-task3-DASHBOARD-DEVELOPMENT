@@ -37,3 +37,5 @@ Overall, this task is an important step in learning how to build dashboards, whi
 *OUTPUT*
 
 <img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/3e930164-fa14-4e34-88ea-15426c9b15ae" />
+<img width="1504" height="450" alt="Image" src="https://github.com/user-attachments/assets/b79aaf2a-7dbc-4972-8699-c3e4370e22fa" />
+<img width="1504" height="450" alt="Image" src="https://github.com/user-attachments/assets/00ed1cab-52fc-4b77-bfb2-fdda5d058de1" />

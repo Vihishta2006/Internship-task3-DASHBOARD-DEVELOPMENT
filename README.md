@@ -34,6 +34,6 @@ For example, a sales manager can use this dashboard to quickly identify which pr
 In simple words, this task shows how data can be transformed into a visual and interactive format that is easy to understand. It combines data processing and visualization to create a user-friendly interface for analysis.
 Overall, this task is an important step in learning how to build dashboards, which is a key skill in data science and business intelligence. It helps in turning complex data into simple visuals, making it easier for anyone to understand and use the information effectively.
 
-*OUTPUT
+*OUTPUT*
 
 <img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/3e930164-fa14-4e34-88ea-15426c9b15ae" />
